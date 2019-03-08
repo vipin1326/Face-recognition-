@@ -7,3 +7,6 @@ And then we train LBPH face recognizer which is present in opencv2 using the ima
 And we save the model as trainner.yml and labels as labels.pickle file. 
 
 Now we head on to face.py notebook and we can use do live streaming using opencv2 and we the perform the face recognition on the live video we have using the model we have which we already saved as trainner.yml
+
+
+![image](https://user-images.githubusercontent.com/44171241/54035571-b0215e00-41df-11e9-9d3e-0023a2e22602.png)
